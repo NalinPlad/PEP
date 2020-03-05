@@ -4,11 +4,17 @@
 You can use PEP by running the following commands:
 
 
-```
-- git clone https://github.com/NalinPlad/PEP.git
 
-- cd PEP/
+clones the repository
 
-- python secretcode.py
-```
+`git clone https://github.com/NalinPlad/PEP.git`
+
+cds into the foldr
+
+`cd PEP/`
+
+runs the python file
+
+`python secretcode.py`
+
 
