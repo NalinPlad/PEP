@@ -1,5 +1,12 @@
 # PEP
 Python Encryption Program(PEP) is a simple encryption program using Python.
 
-Clone to repository with the command git clone https://github.com/NalinPlad/PEP.git and then run the secretcode.py file
+Clone to repository with the following commands: 
+
+
+git clone https://github.com/NalinPlad/PEP.git
+
+cd PEP/
+
+python secretcode.py
 
