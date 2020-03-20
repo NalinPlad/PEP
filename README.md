@@ -9,12 +9,14 @@ clones the repository
 
 `git clone https://github.com/NalinPlad/PEP.git`
 
-cds into the foldr
+cds into the folder
 
 `cd PEP/`
 
 runs the python file
 
 `python secretcode.py`
+
+than follow the instructions
 
 
